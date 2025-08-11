@@ -36,7 +36,7 @@
 
 <div align="center" style="margin: 25px 0; background: linear-gradient(90deg, #0f3460, #1a1a2e, #16213e); padding: 15px; border-radius: 12px; box-shadow: 0 0 20px rgba(114, 9, 183, 0.2);">
   
-  [![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepxkJadhav&show_icons=true&theme=radical&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   <div style="margin: 15px 0; background: #0f3460; height: 1px; width: 80%; margin: 15px auto;"></div>
   
