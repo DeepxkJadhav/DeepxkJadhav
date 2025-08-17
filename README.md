@@ -1,92 +1,122 @@
+<p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/6936373/183865342-639a9e1a-1f2f-4a9d-9520-616313411d90.png" alt="header"/>
+</p>
+
+<h1 align="center">Hey there 👋, I'm <b>Deepak Jadhav</b></h1>
+<p align="center">
+  <i>An AI Engineer building smart systems that solve real-world problems — and I'd love for you to explore what I'm working on.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI Engineer-%23FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white&labelColor=1E1E1E" alt="AI Engineer">
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1E1E1E" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1E1E1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1E1E1E" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1E1E1E" alt="AWS">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepxkJadhav&color=blueviolet&style=flat&label=Visitors" alt="profile views"/>
+</p>
+
+<br>
+
+## 🤝 Welcome! Let’s Connect
+
+Hi! If you're here, you probably care about **AI, machine learning, or building intelligent systems** — and so do I.  
+Whether you're a fellow engineer, researcher, recruiter, or just curious, **you're in the right place**.
+
+This profile is your gateway to:
+- 🔭 What I’m currently building
+- 💡 The tech I use and love
+- 📈 My GitHub journey & impact
+- 📬 How to reach me
+
+So stick around — and feel free to say hi! 😊
+
+<br>
+
+## 💬 I'm Open To
+
+- 🤝 Collaborating on **AI/ML open-source projects**
+- 🧠 Discussing **LLMs, RAG, agents, or MLOps**
+- 🌐 Connecting with **tech teams & innovators**
+- 🎤 Opportunities in **AI Engineering & Research**
+
+> “The best systems aren’t just smart — they’re useful.”  
+> Let’s build something impactful together.
+
+<br>
+
+## 🔧 What I’m Building Right Now
+
+I love turning ideas into production-grade AI systems. Here’s what’s on my bench:
+
+- 🤖 **AI Agent Workflow** for enterprise automation (LangChain + LLMs)
+- ☁️ **MLOps Pipeline** using Docker, FastAPI, and AWS SageMaker
+- 📦 Open-sourcing a **Modular ML Template** for faster prototyping
+- 📚 Exploring **fine-tuning small LLMs** for domain-specific tasks
+
+👉 Want to contribute or see a demo? **Reach out — I’d love to share!**
+
+<br>
+
+## 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepxkJadhav&theme=dark&hide_border=true&bg_color=121212&text_color=ffffff&accent_color=00b8a9&show_icons=true" width="48%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepxkJadhav&theme=dark&hide_border=true&bg_color=121212&text_color=ffffff&accent_color=ff76e8&layout=compact&langs_count=8" width="48%" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DeepxkJadhav&theme=dark&hide_border=true&background=121212&fire=00b8a9&curr=ffffff&side=ffffff&ring=333333" width="48%" alt="streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepxkJadhav&theme=dracula&no-bg=true&row=2&column=4&margin-w=15&margin-h=15&bg_color=121212" width="48%" alt="trophies"/>
+</p>
+
+> Every commit is a step toward smarter systems.  
+> Curious about my most recent work? Check out my pinned repos below.
+
+<br>
+
+## 🏆 Recently Working On
+
 <div align="center">
-  <!-- PERFECT GIF PLACEMENT: Orbital dance around the title -->
-  <div style="position: relative; display: inline-block; margin-bottom: -55px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamswaWdqY2hlZXBrbXZsdnZ4enVyMmhvaTlmamcwejVvdHZ0N3RvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZLhEqWuMPche8/giphy.gif" 
-         width="95" 
-         style="border-radius: 50%; border: 2px solid #7209b7; box-shadow: 0 0 20px rgba(114, 9, 183, 0.4);">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; height: 100%; border-radius: 50%; border: 1px dashed #4cc9f0; opacity: 0.7;"></div>
-  </div>
-
-  <h1 style="background: linear-gradient(90deg, #4361ee, #7209b7, #f72585); -webkit-background-clip: text; background-clip: text; color: transparent; text-shadow: 0 0 10px rgba(114, 9, 183, 0.3); margin-top: 45px;">
-    Deepak Jadhav
-  </h1>
-  <p style="max-width: 650px; font-size: 1.1em; letter-spacing: 0.8px; color: #e0e1dd; margin-bottom: 15px;">
-    🌌 Quantum full-stack architect • Crafting constellations of code • Where data meets dark matter
-  </p>
-  
-  <div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0 30px;">
-    <a href="https://instagram.com/deepxk_jadhav">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square&color=0f3460">
-    </a>
-    <a href="https://dev.to/deepak_jadhav">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto&logoColor=white&style=flat-square&color=16213e">
-    </a>
-  </div>
+  <a href="https://github.com/DeepxkJadhav/AI-Research-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepxkJadhav&repo=AI-Research-Projects&theme=dark&bg_color=121212&text_color=ffffff&accent_color=00b8a9" width="48%" alt="AI Research"/>
+  </a>
+  <a href="https://github.com/DeepxkJadhav/ML-Pipeline-Template">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepxkJadhav&repo=ML-Pipeline-Template&theme=dark&bg_color=121212&text_color=ffffff&accent_color=ff76e8" width="48%" alt="ML Pipeline"/>
+  </a>
 </div>
 
----
+> Replace `AI-Research-Projects` and `ML-Pipeline-Template` with your actual **top 2 public repos**.
 
-### 🪐 Cosmic Skill Constellations  
-*Orbiting badges in deep-space nebula palette*
+<br>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" style="background: rgba(15, 27, 42, 0.5); border-radius: 12px; padding: 15px; border: 1px solid #1b263b;">
-      <b style="color: #4cc9f0; display: block; margin-bottom: 12px;">Frontend</b>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF&style=flat-square&color=1a1a2e">
-        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000&style=flat-square&color=16213e">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=FFFFFF&style=flat-square&color=0f3460">
-      </div>
-    </td>
-    <td width="25%" align="center" style="background: rgba(27, 38, 59, 0.5); border-radius: 12px; padding: 15px; border: 1px solid #0d1b2a; margin: 0 10px;">
-      <b style="color: #f72585; display: block; margin-bottom: 12px;">Backend</b>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=FFFFFF&style=flat-square&color=16213e">
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF&style=flat-square&color=1a1a2e">
-        <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=FFFFFF&style=flat-square&color=0f3460">
-      </div>
-    </td>
-    <td width="25%" align="center" style="background: rgba(15, 27, 42, 0.5); border-radius: 12px; padding: 15px; border: 1px solid #1b263b;">
-      <b style="color: #7209b7; display: block; margin-bottom: 12px;">ML/Data</b>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=FFFFFF&style=flat-square&color=0f3460">
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=FFFFFF&style=flat-square&color=1a1a2e">
-        <img src="https://img.shields.io/badge/DBMS-000000?logo=postgresql&logoColor=FFFFFF&style=flat-square&color=16213e">
-      </div>
-    </td>
-    <td width="25%" align="center" style="background: rgba(27, 38, 59, 0.5); border-radius: 12px; padding: 15px; border: 1px solid #0d1b2a;">
-      <b style="color: #4cc9f0; display: block; margin-bottom: 12px;">Infra</b>
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF&style=flat-square&color=1a1a2e">
-        <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=FFFFFF&style=flat-square&color=16213e">
-        <img src="https://img.shields.io/badge/Computer_Networks-000000?logo=network-security&logoColor=FFFFFF&style=flat-square&color=0f3460">
-      </div>
-    </td>
-  </tr>
-</table>
+## 🌐 Let’s Stay in Touch
 
-> *"I don't debug code - I realign quantum states of the universe."*  
-> *💫 Currently navigating: [Cosmic Dev Playlist](https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO)*
+I’m always excited to meet new people in the AI/ML space. Whether you want to:
+- Discuss a project
+- Share a research paper
+- Explore collaboration
+- Or just say “hi” 👋
 
----
+— I’d love to hear from you.
 
-### 📡 Verified GitHub Analytics  
-*Pre-configured for DeepxkJadhav - works immediately*
+<p align="center">
+  <a href="https://linkedin.com/in/deepakjadhav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1E1E" alt="LinkedIn">
+  </a>
+  <a href="mailto:deepak.s.jadhav07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1E1E" alt="Email">
+  </a>
+  <a href="https://DeepakJadhav.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1E1E1E" alt="Portfolio">
+  </a>
+</p>
 
-<div align="center" style="background: linear-gradient(145deg, #0d1b2a, #1b263b); border-radius: 20px; padding: 25px; margin: 35px 0; box-shadow: 0 0 30px rgba(114, 9, 183, 0.2);">
-  
-  <!-- WORKING STATS CARD (NO CHANGES NEEDED) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepxkJadhav&show_icons=true&theme=radical&count_private=true&hide_border=true" 
-       alt="Deepak's GitHub Stats"
-       width="95%"
-       style="border-radius: 16px; margin: 10px 0;">
-  
-  <div style="height: 1px; background: linear-gradient(90deg, transparent, #7209b7, transparent); width: 90%; margin: 20px auto;"></div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepxkJadhav&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-       alt="Top Languages"
-       width="95%"
-       style="border-radius: 16px;">
-  
-</div>
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Made%20with%20AI%20&%20Curiosity&fontColor=fff&fontSize=25" width="90%" alt="footer"/>
+</p>
