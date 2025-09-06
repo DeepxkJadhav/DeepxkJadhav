@@ -78,7 +78,9 @@ Copy code
 🔮 Future – Blending creativity + code into living intelligence
     
 <!-- STATS -->
+
 📊 GitHub Stats 
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeepxkJadhav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> <img src="  https://github-readme-stats.vercel.app/api/top-langs/?username=DeepxkJadhav&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
 <!-- LANGUAGE SWITCHER (SIMPLIFIED) --> <details> <summary>🌐 <strong>日本語に切り替え / Switch to Japanese</strong></summary> <br>
 
