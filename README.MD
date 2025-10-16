@@ -93,5 +93,5 @@ Copy code
 <!-- CONNECT -->
 🌐 Connect with Me
 <p align="center"> <a href="    https://www.linkedin.com/in/deepak-jadhav-9aa508336/    " target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jadhav-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="    https://github.com/DeepxkJadhav    " target="_blank"> <img src="https://img.shields.io/badge/GitHub-DeepxkJadhav-181717?style=for-the-badge&logo=github" /> </a> <a href="    https://www.instagram.com/deepxk_jadhav    " target="_blank"> <img src="https://img.shields.io/badge/Instagram-@deepxk_jadhav-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </p>
-<!-- FOOTER --> <p align="center"> <img src="    https://komarev.com/ghpvc/?username=DeepxkJadhav&style=flat-square&color=blue" alt="profile views" /> </p> <p align="center"><em>Last updated: {{ replace with today’s date }}</em></p> ```  
-  this my github details for u  
+<!-- FOOTER --> <p align="center"> <img src="    https://komarev.com/ghpvc/?username=DeepxkJadhav&style=flat-square&color=blue" alt="profile views" /> </p> <p align="center"><em>Last updated: {{ 16-10-25 }}</em></p> ```  
+   
