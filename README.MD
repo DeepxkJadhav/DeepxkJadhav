@@ -3,7 +3,7 @@
 <h3 align="center">『 Code is my jutsu | コードこそが術だ 』</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/NXQY-WnZC4UAAAAC/itachi.gif" width="220"/>
+  <img src="https://tenor.com/bRcj8.gif" width="220"/>
 </p>
 
 ---
