@@ -21,14 +21,48 @@
 <br/>
 
 <!-- ═══════════════════ BADGES ═══════════════════ -->
+<!-- Languages -->
 <img src="https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-8b0000?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-550000?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Telegram%20Bot-cc0000?style=for-the-badge&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Meet-8b0000?style=for-the-badge&logo=google-meet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-550000?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-cc0000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-8b0000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-550000?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-8b0000?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/TOML-cc0000?style=for-the-badge&logo=toml&logoColor=white"/>
+<br/>
+<!-- Frameworks & Backend -->
+<img src="https://img.shields.io/badge/FastAPI-cc0000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Uvicorn-8b0000?style=for-the-badge&logo=gunicorn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-550000?style=for-the-badge&logo=pydantic&logoColor=white"/>
+<img src="https://img.shields.io/badge/APScheduler-cc0000?style=for-the-badge&logo=clockify&logoColor=white"/>
+<img src="https://img.shields.io/badge/httpx-8b0000?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+<!-- Automation & Browser -->
+<img src="https://img.shields.io/badge/Playwright-cc0000?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chromium-8b0000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Meet-550000?style=for-the-badge&logo=google-meet&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-cc0000?style=for-the-badge&logo=websocket&logoColor=white"/>
+<br/>
+<!-- Database -->
+<img src="https://img.shields.io/badge/SQLite-cc0000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/aiosqlite-8b0000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<br/>
+<!-- AI / APIs -->
+<img src="https://img.shields.io/badge/OpenRouter-cc0000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GPT--3.5-8b0000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram%20Bot-550000?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Forms-cc0000?style=for-the-badge&logo=google&logoColor=white"/>
+<br/>
+<!-- Security & Config -->
+<img src="https://img.shields.io/badge/python--dotenv-8b0000?style=for-the-badge&logo=dotenv&logoColor=white"/>
+<img src="https://img.shields.io/badge/cryptography-550000?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/keyring-cc0000?style=for-the-badge&logo=keepassxc&logoColor=white"/>
+<br/>
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-cc0000?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-8b0000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-550000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/uv-cc0000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-8b0000?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ruff-550000?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -128,12 +162,18 @@ class DeepxkJadhav:
 
 | Category | Technologies |
 |:---:|:---|
-| 🐍 **Languages** | Python · SQL · Bash · PowerShell |
-| 🤖 **Automation** | Playwright · Selenium · APScheduler |
-| 🌐 **Backend** | FastAPI · aiosqlite · httpx · REST APIs |
-| 🧠 **AI / LLM** | OpenRouter · GPT-3.5 · Prompt Engineering |
-| 📡 **Bots** | Telegram Bot API · Google Meet automation |
-| 🛠️ **Tools** | Git · GitHub · VS Code · Linux · Docker |
+| 🐍 **Languages** | Python 3.13 · SQL · Bash · PowerShell |
+| 🌐 **Backend Framework** | FastAPI · Uvicorn (ASGI) · Pydantic v2 · pydantic-settings |
+| 🤖 **Browser Automation** | Playwright (async) · Chromium CDP · WebSockets |
+| 📡 **HTTP & Networking** | httpx (async) · Telegram Bot API · REST APIs |
+| 💾 **Database** | SQLite · aiosqlite (async) |
+| ⏰ **Scheduling** | APScheduler 3.x · cron jobs · interval triggers |
+| 🧠 **AI / LLM** | OpenRouter API · GPT-3.5-turbo · Prompt Engineering |
+| 🔐 **Security & Config** | python-dotenv · cryptography · keyring · email-validator |
+| 🛠️ **Dev Tools** | Git · GitHub · uv · pytest · pytest-asyncio · Ruff linter |
+| 💻 **OS / Shell** | Windows · PowerShell · VS Code |
+| 🎓 **Integrations** | Google Meet · Google Forms · Google OAuth session |
+
 
 </div>
 
