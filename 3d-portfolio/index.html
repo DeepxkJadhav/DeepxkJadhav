@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DEEPAK JADHAV // 3D CINEMATIC NEURAL SHOWCASE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;600;800&family=Montserrat:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./src/style.css" />
+  </head>
+  <body>
+    <!-- 3D Canvas Background -->
+    <canvas id="webgl-canvas"></canvas>
+
+    <!-- Scanline & Vignette Overlay -->
+    <div class="cinematic-vignette"></div>
+    <div class="scanlines"></div>
+
+    <!-- HUD Overlay Header -->
+    <header class="hud-header">
+      <div class="hud-brand">
+        <div class="hud-status-dot"></div>
+        <div class="hud-title-wrap">
+          <span class="hud-code">SYS://CORE.AI/V3.8</span>
+          <h1 class="hud-name">DEEPAK JADHAV</h1>
+          <span class="hud-role">NEURAL SYSTEMS &amp; 3D ARCHITECT</span>
+        </div>
+      </div>
+
+      <div class="hud-telemetry">
+        <div class="hud-metric">
+          <span class="label">FPS</span>
+          <span id="fps-counter" class="val">60</span>
+        </div>
+        <div class="hud-metric">
+          <span class="label">COORDS</span>
+          <span id="coords-metric" class="val">[0.00, 0.00]</span>
+        </div>
+        <button id="sound-btn" class="hud-btn" title="Toggle Ambient Audio">
+          <span class="sound-icon">⚡</span> AUDIO: OFF
+        </button>
+      </div>
+    </header>
+
+    <!-- Center Interactive Crosshair & Instructions -->
+    <div id="instruction-pill" class="instruction-pill">
+      <span>✦ DRAG TO ROTATE 3D MODEL • CLICK ORBITING BEACONS TO INSPECT PROJECTS</span>
+    </div>
+
+    <!-- Project Telemetry HUD Drawer (Appears when Beacon is clicked) -->
+    <div id="project-drawer" class="project-drawer hidden">
+      <div class="drawer-header">
+        <span class="drawer-domain" id="drawer-domain">DOMAIN // AUTONOMOUS AI</span>
+        <button id="close-drawer-btn" class="drawer-close">&times;</button>
+      </div>
+      <h2 class="drawer-title" id="drawer-title">Arachne</h2>
+      <p class="drawer-desc" id="drawer-desc">
+        Terminal-first autonomous web intelligence & deep research CLI engine.
+      </p>
+      <div class="drawer-tags" id="drawer-tags">
+        <span class="tag">Python</span>
+        <span class="tag">Agents</span>
+        <span class="tag">CLI</span>
+      </div>
+      <div class="drawer-actions">
+        <a id="drawer-link" href="https://github.com/DeepxkJadhav" target="_blank" rel="noopener noreferrer" class="launch-repo-btn">
+          EXPLORE REPOSITORY ↗
+        </a>
+      </div>
+    </div>
+
+    <!-- Bottom Navigation & Quick Links Bar -->
+    <footer class="hud-footer">
+      <div class="quick-projects">
+        <span class="quick-label">BEACONS:</span>
+        <button class="nav-beacon" data-index="0">01. Arachne</button>
+        <button class="nav-beacon" data-index="1">02. Chrono</button>
+        <button class="nav-beacon" data-index="2">03. VoxTrace</button>
+        <button class="nav-beacon" data-index="3">04. Model Studio</button>
+        <button class="nav-beacon" data-index="4">05. SyncMesh</button>
+        <button id="reset-cam-btn" class="nav-reset">RESET VIEW</button>
+      </div>
+
+      <div class="social-bar">
+        <a href="https://github.com/DeepxkJadhav" target="_blank">GITHUB</a>
+        <a href="https://linkedin.com/in/deepak-jadhav" target="_blank">LINKEDIN</a>
+        <a href="https://x.com/DeepxkJadhav" target="_blank">X/TWITTER</a>
+        <a href="mailto:deepak@antigravity.local">CONTACT</a>
+      </div>
+    </footer>
+
+    <script type="module" src="./src/main.js"></script>
+  </body>
+</html>

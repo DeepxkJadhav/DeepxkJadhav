@@ -1,0 +1,17 @@
+{
+  "name": "deepak-3d-cinematic-showcase",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cinematic 3D WebGL Holographic Showcase for Deepak Jadhav",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
