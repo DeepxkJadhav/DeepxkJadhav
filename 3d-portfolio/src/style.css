@@ -93,13 +93,13 @@ body, html {
   pointer-events: auto;
 }
 
-.hud-status-dot {
-  width: 10px;
-  height: 10px;
+.hud-avatar-thumb {
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
-  background: var(--accent-emerald);
-  box-shadow: 0 0 10px var(--accent-emerald);
-  animation: pulseDot 2s infinite ease-in-out;
+  border: 1.5px solid var(--accent-cyan);
+  box-shadow: 0 0 12px rgba(0, 242, 254, 0.45);
+  object-fit: cover;
 }
 
 @keyframes pulseDot {
