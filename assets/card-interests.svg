@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 160" width="100%">
+  <defs>
+    <linearGradient id="int-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111520" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0a0c14" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="876" height="156" rx="10" fill="url(#int-grad)" stroke="#38bdf8" stroke-opacity="0.2" stroke-width="1"/>
+  
+  <circle cx="36" cy="38" r="4" fill="#38bdf8"/>
+  <text x="52" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">Computer Vision &amp; Multimodal Perception</text>
+  <text x="52" y="60" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="12.5" fill="#94a3b8">Continuous vision observation and spatial grounding to drive deterministic tool execution.</text>
+
+  <circle cx="36" cy="92" r="4" fill="#ec4899"/>
+  <text x="52" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="14" font-weight="600" fill="#f1f5f9">Agent Reliability &amp; Causal State Engines</text>
+  <text x="52" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="12.5" fill="#94a3b8">Local-first DAGs, rollback checkpoints, and recovery gates that eliminate autonomous hallucination cascades.</text>
+  
+  <circle cx="36" cy="142" r="4" fill="#10b981"/>
+  <text x="52" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="12.5" font-weight="500" fill="#a7f3d0">Observable Infrastructure · Topological Supply-Chain Analysis · Browser &amp; Desktop CDP Automation</text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 132" width="100%">
+  <defs>
+    <linearGradient id="card-grad-chrono" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140f1c" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0a0710" stop-opacity="0.95"/>
+    </linearGradient>
+    <filter id="glow-chrono" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Base Card with soft rounded corners and subtle ambient glow -->
+  <rect x="2" y="2" width="876" height="128" rx="10" fill="url(#card-grad-chrono)" stroke="#fb7185" stroke-opacity="0.25" stroke-width="1"/>
+
+  <!-- Left Accent Bar -->
+  <rect x="2" y="16" width="4" height="100" rx="2" fill="#fb7185"/>
+
+  <!-- Category & ID Tag -->
+  <text x="32" y="32" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#fb7185">07 / LIVING STATE ENGINE</text>
+
+  <!-- Title & External Arrow -->
+  <text x="32" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.3" fill="#f8fafc">ChronoExtension <tspan fill="#fb7185" font-size="17">↗</tspan></text>
+
+  <!-- Description -->
+  <text x="32" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#94a3b8">Local-first computational flight recorder capturing intermediate state between git commits with content-addressed DAGs.</text>
+
+  <!-- Tags -->
+  
+        <g transform="translate(32, 92)">
+          <rect width="95.0" height="24" rx="12" fill="rgba(251, 113, 133, 0.12)" stroke="#fb7185" stroke-opacity="0.3" stroke-width="1"/>
+          <text x="47.5" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#fb7185">TypeScript</text>
+        </g>
+        <g transform="translate(135.0, 92)">
+          <rect width="65.0" height="24" rx="12" fill="rgba(251, 113, 133, 0.12)" stroke="#fb7185" stroke-opacity="0.3" stroke-width="1"/>
+          <text x="32.5" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#fb7185">SQLite</text>
+        </g>
+        <g transform="translate(208.0, 92)">
+          <rect width="102.5" height="24" rx="12" fill="rgba(251, 113, 133, 0.12)" stroke="#fb7185" stroke-opacity="0.3" stroke-width="1"/>
+          <text x="51.25" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#fb7185">Causal DAGs</text>
+        </g>
+        <g transform="translate(318.5, 92)">
+          <rect width="102.5" height="24" rx="12" fill="rgba(251, 113, 133, 0.12)" stroke="#fb7185" stroke-opacity="0.3" stroke-width="1"/>
+          <text x="51.25" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#fb7185">VS Code API</text>
+        </g>
+</svg>

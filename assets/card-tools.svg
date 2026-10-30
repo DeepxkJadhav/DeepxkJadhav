@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 110" width="100%">
+  <defs>
+    <linearGradient id="tool-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f1715" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#090d0c" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="876" height="106" rx="10" fill="url(#tool-grad)" stroke="#10b981" stroke-opacity="0.2" stroke-width="1"/>
+
+  <g transform="translate(32, 28)">
+    <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#34d399">LANGUAGES &amp; RUNTIMES</text>
+    <text x="0" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="14" font-weight="500" fill="#f1f5f9">Python 3.12+ · TypeScript · JavaScript · C / C++ · SQL · Bash</text>
+  </g>
+
+  <g transform="translate(32, 78)">
+    <text x="0" y="0" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#38bdf8">FRAMEWORKS &amp; INFRASTRUCTURE</text>
+    <text x="0" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="14" font-weight="500" fill="#f1f5f9">PyTorch · FastAPI · React / Next.js · Playwright · SQLite · FAISS · Docker · Three.js</text>
+  </g>
+</svg>

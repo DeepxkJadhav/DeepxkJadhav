@@ -1,64 +1,71 @@
 <div align="center">
 
-<img src="assets/deepak-sakura-companion-readme.gif" alt="Silver-haired anime companion sitting beside the DeepxkJadhav wordmark" width="100%" />
+<img src="assets/deepak-sakura-companion-readme.gif" alt="Silver-haired anime woman sitting on the DeepxkJadhav wordmark, with flowing hair and gently swinging legs" width="100%" />
 
-# Deepak Jadhav
+<br/>
 
-**AI systems · computer vision · autonomous software**
+<a href="https://deepxkjadhav.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-DEEPAK%20JADHAV-120d18?style=for-the-badge&logoColor=f472b6" height="28" /></a>
+&nbsp;
+<a href="https://github.com/DeepxkJadhav"><img src="https://img.shields.io/badge/GITHUB-DEEPXK-120d18?style=for-the-badge&logo=github&logoColor=ffffff" height="28" /></a>
+&nbsp;
+<a href="mailto:deepak.s.jadhav07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-120d18?style=for-the-badge&logoColor=38bdf8" height="28" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/deepak-jadhav"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-120d18?style=for-the-badge&logo=linkedin&logoColor=38bdf8" height="28" /></a>
 
-*I build systems that observe, reason, and do useful work.*
+<br/><br/>
 
-<p align="center">
-  <a href="https://deepxkjadhav.github.io/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/DeepxkJadhav">GitHub</a> &nbsp;·&nbsp;
-  <a href="mailto:deepak.s.jadhav07@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/deepak-jadhav">LinkedIn</a>
-</p>
+<img src="assets/sec-work.svg" width="100%" />
 
-</div>
+<br/><br/>
 
----
+<a href="https://github.com/DeepxkJadhav"><img src="assets/card-tsukiko.svg" width="100%" alt="Tsukiko Desktop Companion" /></a>
 
-## Selected Work
+<br/>
 
-| Project | What it explores | Architecture & Stack |
-|---|---|---|
-| [**Tsukiko**](https://github.com/DeepxkJadhav) | A multimodal desktop companion exploring continuous vision perception, persistent memory, and autonomous computer operation. | `Python` · `FastAPI` · `Vision AI` · `Desktop Hooks` |
-| [**Arachne**](https://github.com/DeepxkJadhav/Arachne) | Browser-driven web research engine coordinating headless Chrome extraction, source verification, and structured dossiers. | `TypeScript` · `Node.js` · `Chrome CDP` · `SQLite WAL` |
-| [**CYPH3R**](https://github.com/DeepxkJadhav/CYPH3R) | Open-source intelligence (OSINT) suite featuring automated entity relationship graphs and visual intelligence feeds. | `Python` · `NetworkX` · `OSINT APIs` · `FastAPI` |
-| [**Sentient-UI**](https://github.com/DeepxkJadhav/Sentient-UI) | Autonomous agent execution harness managing specialist agent routing, memory retention, and tool recovery controls. | `TypeScript` · `Python` · `MCP Tools` · `Agent Swarm` |
-| [**TopoChain**](https://github.com/DeepxkJadhav/topochain) | Software supply-chain integrity research detecting structural drift and malicious anomalies using persistent homology. | `Python` · `AST` · `Ripser` · `PyTorch` |
-| [**VoxTrace**](https://github.com/DeepxkJadhav/VoxTrace) | Searchable audio memory system with timestamped Whisper transcription and sub-second dense vector similarity retrieval. | `Python` · `Whisper` · `FAISS` · `FastAPI` |
-| [**ChronoExtension**](https://github.com/DeepxkJadhav/ChronoExtension) | Local-first computational flight recorder capturing intermediate state between git commits with content-addressed DAGs. | `TypeScript` · `SQLite` · `Causal DAGs` · `VS Code API` |
+<a href="https://github.com/DeepxkJadhav/Arachne"><img src="assets/card-arachne.svg" width="100%" alt="Arachne CLI Engine" /></a>
 
----
+<br/>
 
-## Working Interests
+<a href="https://github.com/DeepxkJadhav/CYPH3R"><img src="assets/card-cyph3r.svg" width="100%" alt="CYPH3R OSINT Suite" /></a>
 
-- **Computer Vision & Multimodal Perception:** Connecting visual inputs to actionable software execution.
-- **Agent Reliability & Determinism:** Harnesses, rollback mechanisms, and verification loops that prevent autonomous hallucination cascades.
-- **Browser & Desktop Automation:** Native CDP (Chrome DevTools Protocol) and Playwright loops for deep intelligence extraction.
-- **Local-First Infrastructure:** Offline-capable state machines, causal DAGs, and peer-to-peer data synchronization.
-- **Observable Architectures:** Systems and developer tools that make complex computational states transparent and debuggable.
+<br/>
 
----
+<a href="https://github.com/DeepxkJadhav/Sentient-UI"><img src="assets/card-sentient.svg" width="100%" alt="Sentient Agent Orchestration" /></a>
 
-## Technical Competence
+<br/>
 
-`Python` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `JavaScript` &nbsp;·&nbsp; `C/C++` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `PyTorch` &nbsp;·&nbsp; `SQLite` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Playwright` &nbsp;·&nbsp; `FAISS` &nbsp;·&nbsp; `Three.js`
+<a href="https://github.com/DeepxkJadhav/topochain"><img src="assets/card-topochain.svg" width="100%" alt="TopoChain Supply Chain Integrity" /></a>
 
----
+<br/>
 
-## Academic & Credentials
+<a href="https://github.com/DeepxkJadhav/VoxTrace"><img src="assets/card-voxtrace.svg" width="100%" alt="VoxTrace Audio Memory" /></a>
 
-- **Degree:** B.Tech, Computer Science & Engineering (Artificial Intelligence) · Parul University · Expected 2027
-- **Certifications:** AWS Certified Cloud Practitioner &nbsp;·&nbsp; IBM AI Engineering Professional Certificate
+<br/>
 
----
+<a href="https://github.com/DeepxkJadhav/ChronoExtension"><img src="assets/card-chrono.svg" width="100%" alt="Chrono State Engine" /></a>
 
-<div align="center">
+<br/><br/>
 
-<sub>Built in public from India · Open to thoughtful engineering collaborations</sub>  
+<img src="assets/sec-interests.svg" width="100%" />
+
+<br/><br/>
+
+<img src="assets/card-interests.svg" width="100%" />
+
+<br/><br/>
+
+<img src="assets/sec-tools.svg" width="100%" />
+
+<br/><br/>
+
+<img src="assets/card-tools.svg" width="100%" />
+
+<br/><br/>
+
+<img src="assets/card-bio.svg" width="100%" />
+
+<br/><br/>
+
 <sub><i>"I prefer systems you can inspect over demos you can only watch."</i></sub>
 
 </div>
