@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/deepak-companion-banner.jpg" alt="Deepak Jadhav — AI Systems, Computer Vision & Autonomous Software" width="100%" />
+<img src="assets/profile-specimen.gif" alt="Deepak Jadhav — Sakura Companion Animated Banner" width="100%" />
 
 # Deepak Jadhav
 
