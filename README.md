@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-specimen.gif" alt="Deepak Jadhav — Sakura Companion Animated Banner" width="100%" />
+<img src="assets/deepak-sakura-companion-readme.gif" alt="Silver-haired anime companion sitting beside the DeepxkJadhav wordmark" width="100%" />
 
 # Deepak Jadhav
 
