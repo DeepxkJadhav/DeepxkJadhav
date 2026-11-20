@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 148" width="100%">
+  <defs>
+    <linearGradient id="phil-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181226" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0a0812" stop-opacity="0.98"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="876" height="144" rx="12" fill="url(#phil-grad)" stroke="#f43f5e" stroke-opacity="0.22" stroke-width="1"/>
+  
+  <!-- Left accent bar -->
+  <rect x="2" y="18" width="4" height="112" rx="2" fill="#f43f5e"/>
+
+  <!-- Japanese Kanji quote -->
+  <text x="32" y="36" font-family="'Yu Gothic', 'Hiragino Sans', 'Segoe UI', sans-serif" font-size="13.5" font-weight="500" letter-spacing="1.2" fill="#fda4af">「自己犠牲…名もなき忍が平和を司る。それが忍の真の姿だ。」</text>
+
+  <!-- Core Engineering Creed -->
+  <text x="32" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="17" font-weight="600" letter-spacing="-0.2" fill="#f8fafc">“True mastery is not the loud display of complexity, but the quiet protection of clarity within chaos.”</text>
+
+  <!-- Deep commentary -->
+  <text x="32" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#94a3b8">I believe in software you can inspect, verify, and understand from first principles —</text>
+  <text x="32" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#94a3b8">engineered with mathematical rigor, deterministic execution, and serene tranquility.</text>
+</svg>

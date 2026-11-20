@@ -1,46 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 132" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 136" width="100%">
   <defs>
     <linearGradient id="card-grad-voxtrace" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#140f1c" stop-opacity="0.95"/>
-      <stop offset="100%" stop-color="#0a0710" stop-opacity="0.95"/>
+      <stop offset="0%" stop-color="#151020" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#0f0c18" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1.0"/>
     </linearGradient>
     <filter id="glow-voxtrace" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#f43f5e" flood-opacity="0.12"/>
     </filter>
   </defs>
 
-  <!-- Base Card with soft rounded corners and subtle ambient glow -->
-  <rect x="2" y="2" width="876" height="128" rx="10" fill="url(#card-grad-voxtrace)" stroke="#f59e0b" stroke-opacity="0.25" stroke-width="1"/>
+  <!-- Ambient Card Container -->
+  <rect x="2" y="2" width="876" height="132" rx="12" fill="url(#card-grad-voxtrace)" stroke="#f43f5e" stroke-opacity="0.22" stroke-width="1" filter="url(#glow-voxtrace)"/>
 
-  <!-- Left Accent Bar -->
-  <rect x="2" y="16" width="4" height="100" rx="2" fill="#f59e0b"/>
+  <!-- Left Twilight Accent Pillar -->
+  <rect x="2" y="18" width="4" height="100" rx="2" fill="#f43f5e"/>
 
   <!-- Category & ID Tag -->
-  <text x="32" y="32" font-family="'JetBrains Mono', Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.5" fill="#f59e0b">06 / AUDIO SEARCH & MEMORY</text>
+  <text x="32" y="32" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#f43f5e">03 // AUDIO INTELLIGENCE & VECTOR MEMORY</text>
 
   <!-- Title & External Arrow -->
-  <text x="32" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.3" fill="#f8fafc">VoxTrace <tspan fill="#f59e0b" font-size="17">↗</tspan></text>
+  <text x="32" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.2" fill="#f8fafc">VoxTrace <tspan fill="#f43f5e" font-size="17">↗</tspan></text>
 
-  <!-- Description -->
-  <text x="32" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#94a3b8">Searchable audio memory system with timestamped Whisper transcription and sub-second dense vector similarity retrieval.</text>
+  <!-- Verified Technical Description -->
+  <text x="32" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#94a3b8">Non-blocking asynchronous speech-to-text pipeline featuring OpenAI Whisper transcription, SQLite WAL job queues, and semantic vector retrieval.</text>
 
-  <!-- Tags -->
+  <!-- Architecture / Stack Tags -->
   
-        <g transform="translate(32, 92)">
-          <rect width="65.0" height="24" rx="12" fill="rgba(245, 158, 11, 0.12)" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
-          <text x="32.5" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#f59e0b">Python</text>
+        <g transform="translate(32.0, 94)">
+          <rect width="73.2" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="36.60" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">Python</text>
         </g>
-        <g transform="translate(105.0, 92)">
-          <rect width="72.5" height="24" rx="12" fill="rgba(245, 158, 11, 0.12)" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
-          <text x="36.25" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#f59e0b">Whisper</text>
+
+        <g transform="translate(115.2, 94)">
+          <rect width="81.4" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="40.70" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">FastAPI</text>
         </g>
-        <g transform="translate(185.5, 92)">
-          <rect width="57.5" height="24" rx="12" fill="rgba(245, 158, 11, 0.12)" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
-          <text x="28.75" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#f59e0b">FAISS</text>
+
+        <g transform="translate(206.6, 94)">
+          <rect width="138.8" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="69.40" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">OpenAI Whisper</text>
         </g>
-        <g transform="translate(251.0, 92)">
-          <rect width="72.5" height="24" rx="12" fill="rgba(245, 158, 11, 0.12)" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1"/>
-          <text x="36.25" y="15" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="500" fill="#f59e0b">FastAPI</text>
+
+        <g transform="translate(355.4, 94)">
+          <rect width="106.0" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="53.00" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">Async Pool</text>
+        </g>
+
+        <g transform="translate(471.4, 94)">
+          <rect width="106.0" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="53.00" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">Vector RAG</text>
         </g>
 </svg>

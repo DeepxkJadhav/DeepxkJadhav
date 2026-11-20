@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 136" width="100%">
+  <defs>
+    <linearGradient id="card-grad-portfolio" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151020" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#0f0c18" stop-opacity="0.98"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1.0"/>
+    </linearGradient>
+    <filter id="glow-portfolio" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#f43f5e" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <!-- Ambient Card Container -->
+  <rect x="2" y="2" width="876" height="132" rx="12" fill="url(#card-grad-portfolio)" stroke="#f43f5e" stroke-opacity="0.22" stroke-width="1" filter="url(#glow-portfolio)"/>
+
+  <!-- Left Twilight Accent Pillar -->
+  <rect x="2" y="18" width="4" height="100" rx="2" fill="#f43f5e"/>
+
+  <!-- Category & ID Tag -->
+  <text x="32" y="32" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#f43f5e">06 // CINEMATIC GRAPHICS & WEBGL</text>
+
+  <!-- Title & External Arrow -->
+  <text x="32" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.2" fill="#f8fafc">Deepak Jadhav Interactive Experience <tspan fill="#f43f5e" font-size="17">↗</tspan></text>
+
+  <!-- Verified Technical Description -->
+  <text x="32" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="13" font-weight="400" fill="#94a3b8">Cinematic 3D web experience with interactive shader meshes, real-time lighting physics, responsive audio feedback, and modern web architecture.</text>
+
+  <!-- Architecture / Stack Tags -->
+  
+        <g transform="translate(32.0, 94)">
+          <rect width="89.6" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="44.80" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">Three.js</text>
+        </g>
+
+        <g transform="translate(131.6, 94)">
+          <rect width="65.0" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="32.50" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">WebGL</text>
+        </g>
+
+        <g transform="translate(206.6, 94)">
+          <rect width="122.4" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="61.20" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">GLSL Shaders</text>
+        </g>
+
+        <g transform="translate(339.0, 94)">
+          <rect width="106.0" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="53.00" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">TypeScript</text>
+        </g>
+
+        <g transform="translate(455.0, 94)">
+          <rect width="56.8" height="24" rx="12" fill="rgba(244, 63, 94, 0.10)" stroke="#f43f5e" stroke-opacity="0.28" stroke-width="1"/>
+          <text x="28.40" y="15.5" text-anchor="middle" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="11" font-weight="500" fill="#fda4af">Vite</text>
+        </g>
+</svg>

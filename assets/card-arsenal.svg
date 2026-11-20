@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 230" width="100%">
+  <defs>
+    <linearGradient id="arsenal-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#140f1e" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0a0812" stop-opacity="0.98"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="876" height="226" rx="12" fill="url(#arsenal-grad)" stroke="#f43f5e" stroke-opacity="0.22" stroke-width="1"/>
+  
+  <!-- Left accent bar -->
+  <rect x="2" y="18" width="4" height="194" rx="2" fill="#f43f5e"/>
+
+  <!-- Column 1: AI & Intelligent Systems -->
+  <g transform="translate(32, 24)">
+    <text x="0" y="14" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#f43f5e">AI &amp; INTELLIGENT SYSTEMS</text>
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1">PyTorch · Persistent Homology (TDA) · Ripser</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1">OpenAI Whisper · Vector Embeddings &amp; RAG</text>
+    <text x="0" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">Autonomous Agent Loops · Tool Orchestration</text>
+  </g>
+
+  <!-- Column 2: Backend & Distributed -->
+  <g transform="translate(460, 24)">
+    <text x="0" y="14" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#38bdf8">BACKEND &amp; DISTRIBUTED</text>
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1">FastAPI · Python Asyncio · Node.js</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1">SQLite WAL · Chrome DevTools Protocol (CDP)</text>
+    <text x="0" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">Worker Pools (ThreadPool) · REST APIs</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="32" y1="126" x2="848" y2="126" stroke="#334155" stroke-opacity="0.4" stroke-width="1"/>
+
+  <!-- Row 2 Col 1: Languages & Runtime -->
+  <g transform="translate(32, 142)">
+    <text x="0" y="14" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#a855f7">CORE LANGUAGES &amp; GRAPHICS</text>
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1">Python 3.11+ · TypeScript · JavaScript · SQL</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">Three.js · WebGL · GLSL Shaders · OpenCV</text>
+  </g>
+
+  <!-- Row 2 Col 2: Engineering Rigor & DevOps -->
+  <g transform="translate(460, 142)">
+    <text x="0" y="14" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5" fill="#34d399">ENGINEERING RIGOR &amp; DEVOPS</text>
+    <text x="0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#cbd5e1">Pytest Suites · Docker Containers · GitHub Actions CI</text>
+    <text x="0" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">Memory &amp; Profiling · Clean Architecture · Semantic AST</text>
+  </g>
+</svg>
