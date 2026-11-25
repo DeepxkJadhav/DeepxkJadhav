@@ -1,46 +1,55 @@
 <div align="center">
-<img src="assets/header-clean.png" width="100%" alt="Deepak Jadhav" />
+  <img src="assets/header-clean.png" width="100%" alt="" />
 </div>
 
 <br/>
 
-```
-Deepak Jadhav  ·  AI & Backend Engineer  ·  Pune, India
-```
+<div align="center">
+  <img src="assets/name-animated.svg" width="100%" alt="Deepak Jadhav — AI & Backend Engineer" />
+</div>
 
-Building systems that reason, extract, and persist — from TDA-based supply-chain drift detection to async speech pipelines and autonomous web intelligence.
+<br/>
+<br/>
 
-**Currently working on:** Autonomous agent architectures and local-first knowledge systems.
+I build systems that **reason about structure** — from topological supply-chain drift detection and async speech intelligence pipelines to autonomous Chrome CDP research engines and visual OSINT entity graphs.
 
----
+Comfortable working from linear algebra and graph theory down to raw async I/O, test suites, and production containers.
 
-### Projects
+<br/>
 
-| Repo | What it does | Stack |
-|---|---|---|
-| [**topochain**](https://github.com/DeepxkJadhav/topochain) | Software supply-chain integrity via persistent homology & AST simplicial complexes — detects structural drift before it becomes a vulnerability | Python · PyTorch · Ripser · TDA |
-| [**Arachne**](https://github.com/DeepxkJadhav/Arachne) | Headless Chrome CDP engine for structured web research — coordinates extraction, deduplication, and SQLite WAL persistence from the terminal | TypeScript · Node.js · Chrome CDP |
-| [**VoxTrace**](https://github.com/DeepxkJadhav/VoxTrace) | Non-blocking speech-to-text with async worker pool, Whisper transcription, and persistent SQLite job queues | Python · FastAPI · Whisper · asyncio |
-| [**CYPH3R**](https://github.com/DeepxkJadhav/CYPH3R) | Visual OSINT platform — facial landmark extraction, entity relationship graph, cryptographic hash validation | Python · FastAPI · OpenCV |
-| [**ChronoExtension**](https://github.com/DeepxkJadhav/ChronoExtension) | Local-first code evolution engine — semantic AST diffs and versioned branch DAG without remote deps | JavaScript · AST · IndexedDB |
-| [**Portfolio**](https://deepxkjadhav.github.io/) | Interactive 3D WebGL experience with real-time shader lighting | Three.js · GLSL · Vite |
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=ffffff)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 
-### Stack
+</div>
 
-**Languages** — Python 3.11+ · TypeScript · JavaScript · SQL
+<br/>
+<br/>
 
-**AI / ML** — PyTorch · TDA (Ripser, Gudhi) · OpenAI Whisper · Vector RAG · AST analysis
+<div align="center">
 
-**Backend** — FastAPI · asyncio · ThreadPoolExecutor · SQLite WAL · Chrome CDP (WebSocket) · REST
+<img height="158"
+  src="https://github-readme-stats.vercel.app/api?username=DeepxkJadhav&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9444a&text_color=8b949e&icon_color=e8a045&include_all_commits=true&count_private=true"
+/>&nbsp;&nbsp;<img height="158"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepxkJadhav&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9444a&text_color=8b949e&langs_count=6"
+/>
 
-**Frontend** — Three.js · WebGL · GLSL shaders · Vite
+</div>
 
-**Engineering** — pytest · Docker · GitHub Actions · clean architecture · profiling
+<br/>
+<br/>
 
----
+<div align="center">
 
-### Contact
+[deepxkjadhav.github.io](https://deepxkjadhav.github.io)&ensp;·&ensp;[deepak.s.jadhav07@gmail.com](mailto:deepak.s.jadhav07@gmail.com)&ensp;·&ensp;[LinkedIn](https://linkedin.com/in/deepak-jadhav)
 
-[deepxkjadhav.github.io](https://deepxkjadhav.github.io) &nbsp;·&nbsp; [deepak.s.jadhav07@gmail.com](mailto:deepak.s.jadhav07@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/deepak-jadhav](https://linkedin.com/in/deepak-jadhav)
+</div>
