@@ -1,84 +1,46 @@
 <div align="center">
-
-<!-- Hero Animated Banner: Calm & Joyful Itachi at Dawn -->
-<img src="assets/itachi-peaceful-banner.gif" alt="Deepak Jadhav — Calm & Joyful Itachi Sunrise Banner with Drifting Feathers and Sakura" width="100%" />
-
-<br/>
-
-<!-- Sleek Twilight Navigation Badges -->
-<a href="https://deepxkjadhav.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-3D%20EXPERIENCE-140f1f?style=for-the-badge&logoColor=f43f5e" height="28" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://github.com/DeepxkJadhav"><img src="https://img.shields.io/badge/GITHUB-DEEPXK-140f1f?style=for-the-badge&logo=github&logoColor=ffffff" height="28" alt="GitHub" /></a>
-&nbsp;
-<a href="mailto:deepak.s.jadhav07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-140f1f?style=for-the-badge&logoColor=38bdf8" height="28" alt="Email" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/deepak-jadhav"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-140f1f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" height="28" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-<!-- Tranquil Crow Twilight Divider Animation -->
-<img src="assets/itachi-tranquil-divider.gif" width="100%" alt="Tranquil Twilight Divider" />
-
-<br/><br/>
-
-<!-- Philosophy & Perspective -->
-<img src="assets/card-philosophy.svg" width="100%" alt="Tranquil Engineering Mindset" />
-
-<br/><br/>
-
-<!-- Section 01: Flagship Systems -->
-<img src="assets/sec-flagships.svg" width="100%" alt="Flagship Architectures" />
-
-<br/><br/>
-
-<!-- Flagship 01: TopoChain -->
-<a href="https://github.com/DeepxkJadhav/topochain"><img src="assets/card-topochain.svg" width="100%" alt="TopoChain Topological Supply Chain Integrity" /></a>
-
-<br/>
-
-<!-- Flagship 02: Arachne -->
-<a href="https://github.com/DeepxkJadhav/Arachne"><img src="assets/card-arachne.svg" width="100%" alt="Arachne Autonomous Web Intelligence" /></a>
-
-<br/>
-
-<!-- Flagship 03: VoxTrace -->
-<a href="https://github.com/DeepxkJadhav/VoxTrace"><img src="assets/card-voxtrace.svg" width="100%" alt="VoxTrace Audio Memory" /></a>
-
-<br/>
-
-<!-- Flagship 04: CYPH3R -->
-<a href="https://github.com/DeepxkJadhav/CYPH3R"><img src="assets/card-cyph3r.svg" width="100%" alt="CYPH3R OSINT Suite" /></a>
-
-<br/>
-
-<!-- Flagship 05: Chrono State Engine -->
-<a href="https://github.com/DeepxkJadhav/ChronoExtension"><img src="assets/card-chrono.svg" width="100%" alt="Chrono State Engine" /></a>
-
-<br/>
-
-<!-- Flagship 06: Interactive 3D Experience -->
-<a href="https://deepxkjadhav.github.io/"><img src="assets/card-portfolio.svg" width="100%" alt="Deepak Jadhav Interactive Experience" /></a>
-
-<br/><br/>
-
-<!-- Tranquil Crow Twilight Divider Animation -->
-<img src="assets/itachi-tranquil-divider.gif" width="100%" alt="Tranquil Twilight Divider" />
-
-<br/><br/>
-
-<!-- Section 02: Core Technical Arsenal -->
-<img src="assets/sec-arsenal.svg" width="100%" alt="Core Technical Arsenal" />
-
-<br/><br/>
-
-<!-- Technical Arsenal Grid Card -->
-<img src="assets/card-arsenal.svg" width="100%" alt="Core Capabilities & Disciplines" />
-
-<br/><br/>
-
-<!-- Tranquil Footer -->
-<sub><i>"True peace is not the absence of complexity, but the mastery of harmony within it."</i></sub>
-<br/>
-<sub><span style="color:#94a3b8">Deepak Jadhav (Deepxk) · Architecting Autonomous Intelligence · Stillness & Rigor</span></sub>
-
+<img src="assets/header-clean.png" width="100%" alt="Deepak Jadhav" />
 </div>
+
+<br/>
+
+```
+Deepak Jadhav  ·  AI & Backend Engineer  ·  Pune, India
+```
+
+Building systems that reason, extract, and persist — from TDA-based supply-chain drift detection to async speech pipelines and autonomous web intelligence.
+
+**Currently working on:** Autonomous agent architectures and local-first knowledge systems.
+
+---
+
+### Projects
+
+| Repo | What it does | Stack |
+|---|---|---|
+| [**topochain**](https://github.com/DeepxkJadhav/topochain) | Software supply-chain integrity via persistent homology & AST simplicial complexes — detects structural drift before it becomes a vulnerability | Python · PyTorch · Ripser · TDA |
+| [**Arachne**](https://github.com/DeepxkJadhav/Arachne) | Headless Chrome CDP engine for structured web research — coordinates extraction, deduplication, and SQLite WAL persistence from the terminal | TypeScript · Node.js · Chrome CDP |
+| [**VoxTrace**](https://github.com/DeepxkJadhav/VoxTrace) | Non-blocking speech-to-text with async worker pool, Whisper transcription, and persistent SQLite job queues | Python · FastAPI · Whisper · asyncio |
+| [**CYPH3R**](https://github.com/DeepxkJadhav/CYPH3R) | Visual OSINT platform — facial landmark extraction, entity relationship graph, cryptographic hash validation | Python · FastAPI · OpenCV |
+| [**ChronoExtension**](https://github.com/DeepxkJadhav/ChronoExtension) | Local-first code evolution engine — semantic AST diffs and versioned branch DAG without remote deps | JavaScript · AST · IndexedDB |
+| [**Portfolio**](https://deepxkjadhav.github.io/) | Interactive 3D WebGL experience with real-time shader lighting | Three.js · GLSL · Vite |
+
+---
+
+### Stack
+
+**Languages** — Python 3.11+ · TypeScript · JavaScript · SQL
+
+**AI / ML** — PyTorch · TDA (Ripser, Gudhi) · OpenAI Whisper · Vector RAG · AST analysis
+
+**Backend** — FastAPI · asyncio · ThreadPoolExecutor · SQLite WAL · Chrome CDP (WebSocket) · REST
+
+**Frontend** — Three.js · WebGL · GLSL shaders · Vite
+
+**Engineering** — pytest · Docker · GitHub Actions · clean architecture · profiling
+
+---
+
+### Contact
+
+[deepxkjadhav.github.io](https://deepxkjadhav.github.io) &nbsp;·&nbsp; [deepak.s.jadhav07@gmail.com](mailto:deepak.s.jadhav07@gmail.com) &nbsp;·&nbsp; [linkedin.com/in/deepak-jadhav](https://linkedin.com/in/deepak-jadhav)
