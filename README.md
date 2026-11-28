@@ -1,32 +1,45 @@
 <div align="center">
-
-<!-- Hero Animated Banner: Calm & Joyful Itachi at Dawn -->
-<img src="assets/itachi-peaceful-banner.gif" alt="Deepak Jadhav — Calm & Joyful Itachi Sunrise Banner with Drifting Feathers and Sakura" width="100%" />
+  <img src="assets/header-clean.png" width="100%" alt="Deepak Jadhav Hero" />
+</div>
 
 <br/>
 
-<!-- Sleek Twilight Navigation Badges -->
-<a href="https://deepxkjadhav.github.io/"><img src="https://img.shields.io/badge/PORTFOLIO-3D%20EXPERIENCE-140f1f?style=for-the-badge&logoColor=f43f5e" height="28" alt="Portfolio" /></a>
-&nbsp;
-<a href="https://github.com/DeepxkJadhav"><img src="https://img.shields.io/badge/GITHUB-DEEPXK-140f1f?style=for-the-badge&logo=github&logoColor=ffffff" height="28" alt="GitHub" /></a>
-&nbsp;
-<a href="mailto:deepak.s.jadhav07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-140f1f?style=for-the-badge&logoColor=38bdf8" height="28" alt="Email" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/deepak-jadhav-9aa508336/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-140f1f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" height="28" alt="LinkedIn" /></a>
+<div align="center">
+  <img src="assets/name-animated.svg" width="100%" alt="Deepak Jadhav — AI & Backend Engineer" />
+</div>
 
-<br/><br/>
+<br/>
 
-<!-- Tranquil Crow Twilight Divider Animation -->
-<img src="assets/itachi-tranquil-divider.gif" width="100%" alt="Tranquil Twilight Divider" />
+<div align="center">
 
-<br/><br/>
+I build systems that **reason about structure** — from topological supply-chain drift detection and async speech intelligence pipelines to autonomous Chrome CDP research engines and visual OSINT entity graphs.
 
-<!-- Philosophy & Perspective -->
-<img src="assets/card-philosophy.svg" width="100%" alt="Tranquil Engineering Mindset" />
+Comfortable working from linear algebra and graph theory down to raw async I/O, test suites, and production containers.
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Technical Stack Badges -->
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=003B57)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)&nbsp;
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=ffffff)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+</div>
+
+<br/>
 
 <!-- Section 01: Flagship Systems -->
+<div align="center">
 <img src="assets/sec-flagships.svg" width="100%" alt="Flagship Architectures" />
 
 <br/><br/>
@@ -59,31 +72,32 @@
 <!-- Flagship 06: Chrono State Engine -->
 <a href="https://github.com/DeepxkJadhav/ChronoExtension"><img src="assets/card-chrono.svg" width="100%" alt="Chrono State Engine" /></a>
 
+</div>
+
+<br/>
 <br/>
 
-<!-- Flagship 06: Interactive 3D Experience -->
-<a href="https://deepxkjadhav.github.io/"><img src="assets/card-portfolio.svg" width="100%" alt="Deepak Jadhav Interactive Experience" /></a>
+<!-- Activity Telemetry & Languages -->
+<div align="center">
 
-<br/><br/>
+<img height="158"
+  src="https://github-readme-stats.vercel.app/api?username=DeepxkJadhav&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9444a&text_color=8b949e&icon_color=e8a045&include_all_commits=true&count_private=true"
+/>&nbsp;&nbsp;<img height="158"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepxkJadhav&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9444a&text_color=8b949e&langs_count=6"
+/>
 
-<!-- Tranquil Crow Twilight Divider Animation -->
-<img src="assets/itachi-tranquil-divider.gif" width="100%" alt="Tranquil Twilight Divider" />
+</div>
 
-<br/><br/>
-
-<!-- Section 02: Core Technical Arsenal -->
-<img src="assets/sec-arsenal.svg" width="100%" alt="Core Technical Arsenal" />
-
-<br/><br/>
-
-<!-- Technical Arsenal Grid Card -->
-<img src="assets/card-arsenal.svg" width="100%" alt="Core Capabilities & Disciplines" />
-
-<br/><br/>
-
-<!-- Tranquil Footer -->
-<sub><i>"True peace is not the absence of complexity, but the mastery of harmony within it."</i></sub>
 <br/>
-<sub><span style="color:#94a3b8">Deepak Jadhav (Deepxk) · Architecting Autonomous Intelligence · Stillness & Rigor</span></sub>
+<br/>
+
+<!-- Footer & Social Connect -->
+<div align="center">
+
+[Portfolio (3D Experience)](https://deepxkjadhav.github.io)&ensp;·&ensp;[Email Contact](mailto:deepak.s.jadhav07@gmail.com)&ensp;·&ensp;[LinkedIn Profile](https://www.linkedin.com/in/deepak-jadhav-9aa508336/)
+
+<br/><br/>
+
+<sub><span style="color:#64748b">Deepak Jadhav (Deepxk) · Architecting Autonomous Intelligence · Stillness &amp; Rigor</span></sub>
 
 </div>
