@@ -12,7 +12,7 @@
 &nbsp;
 <a href="mailto:deepak.s.jadhav07@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DIRECT-140f1f?style=for-the-badge&logoColor=38bdf8" height="28" alt="Email" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/deepak-jadhav"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-140f1f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" height="28" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/deepak-jadhav-9aa508336/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-140f1f?style=for-the-badge&logo=linkedin&logoColor=38bdf8" height="28" alt="LinkedIn" /></a>
 
 <br/><br/>
 
@@ -51,7 +51,12 @@
 
 <br/>
 
-<!-- Flagship 05: Chrono State Engine -->
+<!-- Flagship 05: Sentient-UI -->
+<a href="https://github.com/DeepxkJadhav/Sentient-UI"><img src="assets/card-sentient.svg" width="100%" alt="Sentient-UI Autonomous Multi-Agent Swarm Orchestrator" /></a>
+
+<br/>
+
+<!-- Flagship 06: Chrono State Engine -->
 <a href="https://github.com/DeepxkJadhav/ChronoExtension"><img src="assets/card-chrono.svg" width="100%" alt="Chrono State Engine" /></a>
 
 <br/>

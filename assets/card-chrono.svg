@@ -17,7 +17,7 @@
   <rect x="2" y="18" width="4" height="100" rx="2" fill="#f43f5e"/>
 
   <!-- Category & ID Tag -->
-  <text x="32" y="32" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#f43f5e">05 // LOCAL-FIRST STATE & AST DELTAS</text>
+  <text x="32" y="32" font-family="'JetBrains Mono', Consolas, 'Fira Code', monospace" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#f43f5e">06 // LOCAL-FIRST STATE &amp; AST DELTAS</text>
 
   <!-- Title & External Arrow -->
   <text x="32" y="58" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', sans-serif" font-size="20" font-weight="700" letter-spacing="-0.2" fill="#f8fafc">Chrono State Engine <tspan fill="#f43f5e" font-size="17">↗</tspan></text>
